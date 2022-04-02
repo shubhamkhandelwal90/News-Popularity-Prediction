@@ -1,0 +1,2 @@
+# News-Popularity-Prediction
+It is a New Popularity Prediction Case Study to predict the number of shares of a specific news article before its publishing. It will be used to predict the number of shares a particular news article will receive based on its internal features before the publication. The model should be able to predict the article shares as closely as possible to the original shares. It will be used to identify which factors contribute most to the number of shares.
